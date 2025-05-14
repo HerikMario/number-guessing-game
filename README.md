@@ -26,5 +26,4 @@ Ideal para iniciantes em Java entenderem como criar interações simples com o u
 ## 🛠️ Tecnologias utilizadas
 
 - **Java 17+** (ou versões compatíveis)
-- **IDE** de sua preferência (IntelliJ IDEA, Eclipse, VS Code etc.)
 - **Terminal / Console** para execução
